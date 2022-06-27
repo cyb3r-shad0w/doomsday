@@ -1,2 +1,5 @@
+# ransomware
+
+
 This Ransomware is given only for study purpose, I will not be responsible for any illegal action you
 will take by using this software.
